@@ -26,4 +26,5 @@ ID : [a-zA-Z0-9]+;
 
 Numero : [0-9]+
      ;
+     
 WS  : [ \t\n\r]+ -> skip ;
