@@ -1,0 +1,4 @@
+s = ("a" | "b")*;
+s = s "aaa" s; 
+output s;
+

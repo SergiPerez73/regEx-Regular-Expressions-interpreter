@@ -1,6 +1,7 @@
 grammar regEx;
 root : statement*           // l'etiqueta ja és root
      ;
+
 statement : ID '=' expr ';' # asignacion
      | 'output' expr ';' #output
      | 'substitution ' ID '|' subs* ';' #substitucion
@@ -26,5 +27,5 @@ ID : [a-zA-Z0-9]+;
 
 Numero : [0-9]+
      ;
-     
+
 WS  : [ \t\n\r]+ -> skip ;
