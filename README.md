@@ -33,5 +33,5 @@ The file named `solution.txt` is an example a regular expression with the correc
 
 ## Author
 
-Sergio Perez
+Sergi Pérez
 
