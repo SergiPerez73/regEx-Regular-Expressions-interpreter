@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a regular expression interpreter. It allows the user to give a regular expression that corresponds to a language. Then, the user can try to write a regular expression that recognizes the same language. There is an interface where he can send his solutions to the problem and check whether or not a certain word is within the language he has proposed. The user can also get feedback of examples of words that give errors in case his solution is wrong.
+This project implements a regular expression interpreter. It allows the user to give a regular expression that corresponds to a language, wich will be the solution of a problem. Then, the user can try to write a regular expression that recognizes the same language to solve the problem. There is an interface where he can send his solutions to the problem and check whether or not a certain word is within the language he has proposed. The user can also get feedback of examples of words that give errors in case his solution is wrong.
 
 ## Code execution
 
